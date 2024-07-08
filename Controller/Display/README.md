@@ -1,8 +1,8 @@
 # ImageToHighColor conversion tool
 Python command-line tool for image format conversion. Needs path to image file as input. Additional options available.
-Takes any openCV supported image format (e.g. .png, .jpeg) as input and outputs a list of hex-values to be used in C code (e.g. for TFT screens)
+Takes any openCV supported image format (e.g. .png, .jpeg) as input and outputs a list of hex-values to be used in C code (e.g. for TFT screens).
 
-## arguments
+## Arguments
 | Argument  | function | required? | default |
 | ------------- | ------------- | ------------- | ------------- |
 | "-f", "--file" | path to input image file | yes | x |

@@ -4,7 +4,7 @@ Takes any openCV supported image format (e.g. .png, .jpeg) as input and outputs 
 
 ## arguments
 | Argument  | function | required? | default |
-| ------------- | ------------- |
+| ------------- | ------------- | ------------- | ------------- |
 | "-f", "--file" | path to input image file | yes | x |
 | "-o", "--output  | path to output text file | no | x |
 | "-r", "--rows" | length of each output row | no | 16 |
